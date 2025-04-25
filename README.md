@@ -72,6 +72,6 @@ O programa imprimirá no terminal se cada expressão é **válida** ou **inváli
 valida
 valida
 valida
-inválida
-inválida
+valida
+valida
 ```
