@@ -1,0 +1,6 @@
+5
+true
+false
+( \neg 1p )
+( \wedge 1x false )
+( \rightarrow ( \neg 2a ) ( \vee 3b 4c ) )
