@@ -59,12 +59,9 @@ Exemplo de arquivo de entrada (`arquivo.txt`):
 5
 true
 false
-( 
-eg 1p )
+( \neg 1p )
 ( \wedge 1x false )
-( 
-ightarrow ( 
-eg 2a ) ( ee 3b 4c ) )
+( \rightarrow ( \neg 2a ) ( \vee 3b 4c ) )
 ```
 
 ### Saída do Programa
